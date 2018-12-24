@@ -11,7 +11,6 @@ const showCourse = (req, res, next) => {
     const id = req.params.id;
     const uri = `https://cefis.com.br/api/v1/event/${id}?include=classes`;
     rp.get(uri, result => {
-        console.log(JSON.stringify(result));
         res.render("course", {data: result.data});
     });
 };
