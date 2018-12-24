@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><%= data.title %></title>
+    <link rel="stylesheet" href="../stylesheets/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+
+
+<div class="course-header">
+    <div class="course-img">
+        <img src="<%= data.banner %>" class="img-fluid">
+    </div>
+    <div class="course-content">
+        <h1><%= data.title %></h1>
+        <p><%= data.resume %></p>
+        Goals:
+        <li>
+            <%= data.goal %>
+        </li>
+    </div>
+</div>
+<div class="accordion" id="accordionExample">
+    <% for(let i = 0;i < data.classes.length; i++){ %>
+    <div class="card">
+        <div class="card-header" id="heading<%=data.classes[i].id%>">
+            <h2 class="mb-0">
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse<%=data.classes[i].id%>" aria-expanded="false" aria-controls="collapse<%=data.classes[i].id%>">
+                        <%=data.classes[i].title%>
+                </button>
+            </h2>
+        </div>
+        <div id="collapse<%=data.classes[i].id%>" class="collapse" aria-labelledby="heading<%=data.classes[i].id%>" data-parent="#accordionExample">
+            <div class="card-body">
+                <img src="<%= data.classes[i].thumbnail_url %>" class="img-fluid">
+                <!--<video width="352" height="198" controls>
+                    <source src="<%=data.classes[i].stream_sources[0].link%>" type="application/x-mpegURL">
+                </video>-->
+            </div>
+        </div>
+    </div>
+    <% } %>
+</div>
+
+<% if(!data.classes.length){ %>
+<div class="info-box">
+    <p id='no-courses-error'><strong>Nenhuma aula encontrada</strong></p>
+</div>
+<% } %>
+
+<div class="container">
+    <p>Video Promocional:</p>
+    <iframe width="560" height="315" src="<%= data.video_divulgacao %>" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+</body>
+</html>

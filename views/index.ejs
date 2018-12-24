@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>List of courses</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+
+<% for(let i = 0;i < data.length;i++){ %>
+    <% if(i % 5 === 0){ %>
+        <div class="card-group">
+    <% } %>
+    <div class="card">
+        <img class="card-img-top" src="<%= data[i].banner %>" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title"><%= data[i].title %></h5>
+            <p class="card-text"><%= data[i].resume %></p>
+            <p class="card-text">
+                <% for(let j = 0;j < data[i].keywords.length ;j++){ %>
+                <span class="badge badge-light"><%= data[i].keywords[j] %></span>
+                <% } %>
+            </p>
+            <p class="card-text">
+                <small class="text-muted">Author:<%= data[i].teachers_names %></small>
+            </p>
+            <%if(!data[i].free){%>
+                <span class="badge badge-pill badge-info">RS$ <%=data[i].price%></span>
+            <%}else {%>
+                <span class="badge badge-pill badge-success">It's free!</span>
+            <%}%>
+            <form action="/course/<%=data[i].id%>" method="get">
+                <button type="submit" class="std-btn">Go to course</button>
+            </form>
+        </div>
+    </div>
+    <%if(i%5 === 4){%>
+        </div>
+        <br/>
+        <br/>
+    <%}%>
+<% } %>          
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+</body>
+</html>

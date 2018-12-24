@@ -1,0 +1,2437 @@
+{
+  "data": {
+    "id": 1122,
+    "title": "Bloco K",
+    "subtitle": "Bloco K",
+    "data_gravacao": "2018-12-13",
+    "duracao_estimada": "01:19",
+    "teachers_names": "THIAGO ARANTES",
+    "resume": "A Escrituração Fiscal Digital – EFD-ICMS/IPI é parte integrante do projeto SPED a que se refere o Decreto nº 6.022/07, que busca promover a integração dos fiscos federal, estaduais, Distrito Federal e, futuramente, municipais, e dos Órgãos de Controle mediante a padronização, racionalização e compartilhamento das informações fiscais digitais, bem como integrar todo o processo relativo à escrituração fiscal, com a substituição do atual documentário em meio físico (papel) por documento eletrônico com validade jurídica para todos os fins.",
+    "start": 1545944400,
+    "end": 1545948000,
+    "color": 0,
+    "category": "Contabil",
+    "hours": 4755,
+    "type": "all",
+    "watchLaterEvent": false,
+    "buyed": false,
+    "demo_showed": false,
+    "streaming_url": "https://livestream.com/accounts/365644/events/3424000/player",
+    "banner": "https://cefiscdn.s3-sa-east-1.amazonaws.com/media/84042fabecdba99edd8a6c32475e8b351545134894.jpg",
+    "video_promocional": "https://www.youtube.com/watch?v=307006095?rel=0",
+    "free": false,
+    "discount": false,
+    "original_price": 0,
+    "price": 0,
+    "data_realizacao": "2018-12-27",
+    "data_lancamento": "2018-12-18 09:34:37",
+    "live_date": "AO VIVO 27/12/2018",
+    "live": false,
+    "live_now": false,
+    "is_today": false,
+    "video_divulgacao": "//player.vimeo.com/video/307006095",
+    "video_divulgacao_sources": null,
+    "categories": [
+      2,
+      1
+    ],
+    "keywords": [
+      "Bloco",
+      "k",
+      "bloco k",
+      "efd",
+      "IPI"
+    ],
+    "internal": false,
+    "transmission": null,
+    "comments": true,
+    "questions": false,
+    "not_answered_questions": false,
+    "status_contract": "accept",
+    "publish": "approved",
+    "available": "1",
+    "notifications": null,
+    "instrutor_edit": "0",
+    "status_production": "todo",
+    "status": true,
+    "duration": "01:19:15",
+    "duration_classes": "01:19:15",
+    "rated": false,
+    "rating": 84,
+    "total_ratings": 18,
+    "quality_ratings": 4.5,
+    "total_student_ratings": 5,
+    "progress": null,
+    "percentProgress": 0,
+    "watched": "00:00:00",
+    "editing": false,
+    "target_group": "",
+    "content": "",
+    "goal": "Transmitir de forma clara o tratamento, tanto legal como técnico, relacionado à escrituração fiscal digital de ICMS e IPI, com ênfase em dois blocos de registros importantíssimos e de grande interesse do fisco, que são os registros de controle da produção e do estoque (bloco K) e o inventário (bloco H), destacando sua estrutura e composição.",
+    "parcels": "4",
+    "recorded_url": null,
+    "banner_base": "https://cefiscdn.s3-sa-east-1.amazonaws.com/media/84042fabecdba99edd8a6c32475e8b351545134894.jpg",
+    "meta_participantes": 50,
+    "has_one_video": false,
+    "last_watched_log": null,
+    "slides": false,
+    "classes": [
+      {
+        "id": 445978,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Introdução",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/307006143",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746866010_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 1,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/307006143.m3u8?s=2fd5756909d64faf19cbf25ce642a05e5bc081d6&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:23+00:00",
+            "fps": 30,
+            "size": 4175319,
+            "md5": "ff3e92eb18d4e80ac590e5451a6418d2",
+            "link_secure": "https://player.vimeo.com/external/307006143.m3u8?s=2fd5756909d64faf19cbf25ce642a05e5bc081d6&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/307006143.sd.mp4?s=0a0c8459929163ce24dfa6f996bdee1e89f92b42&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:23+00:00",
+            "fps": 30,
+            "size": 1158023,
+            "md5": "d7c3a543a14d7b6ce1cca44dacf44445",
+            "link_secure": "https://player.vimeo.com/external/307006143.sd.mp4?s=0a0c8459929163ce24dfa6f996bdee1e89f92b42&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/307006143.sd.mp4?s=0a0c8459929163ce24dfa6f996bdee1e89f92b42&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:23+00:00",
+            "fps": 30,
+            "size": 1958230,
+            "md5": "49e4514c6d885861473d77e9c6607ba1",
+            "link_secure": "https://player.vimeo.com/external/307006143.sd.mp4?s=0a0c8459929163ce24dfa6f996bdee1e89f92b42&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/307006143.hd.mp4?s=18ef598b23eb64e5a66bf3cfac48228b0a23225d&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:23+00:00",
+            "fps": 60,
+            "size": 2645744,
+            "md5": "43c38c0b597965718c6bfd9d7f8a608b",
+            "link_secure": "https://player.vimeo.com/external/307006143.hd.mp4?s=18ef598b23eb64e5a66bf3cfac48228b0a23225d&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006143.hd.mp4?s=18ef598b23eb64e5a66bf3cfac48228b0a23225d&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:23+00:00",
+            "fps": 30,
+            "size": 4175319,
+            "md5": "ff3e92eb18d4e80ac590e5451a6418d2",
+            "link_secure": "https://player.vimeo.com/external/307006143.hd.mp4?s=18ef598b23eb64e5a66bf3cfac48228b0a23225d&profile_id=175&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006143.hd.mp4?s=18ef598b23eb64e5a66bf3cfac48228b0a23225d&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:23+00:00",
+            "fps": 60,
+            "size": 4273817,
+            "md5": "d10a2ede6ee6948fcecf8d5823bc6333",
+            "link_secure": "https://player.vimeo.com/external/307006143.hd.mp4?s=18ef598b23eb64e5a66bf3cfac48228b0a23225d&profile_id=169&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "307006143",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006143.sd.mp4?s=0a0c8459929163ce24dfa6f996bdee1e89f92b42&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006143.hd.mp4?s=18ef598b23eb64e5a66bf3cfac48228b0a23225d&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/307006143.sd.mp4?s=0a0c8459929163ce24dfa6f996bdee1e89f92b42&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/307006143.m3u8?s=2fd5756909d64faf19cbf25ce642a05e5bc081d6&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746866010_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:00:25"
+      },
+      {
+        "id": 445979,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Definição Parte 1",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306915248",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746759648_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 2,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306915248.m3u8?s=332b585f09ab0b32cbb94886d1ac7d4589f8aee7&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:25:50+00:00",
+            "fps": 60,
+            "size": 115589234,
+            "md5": "237a0a141f132ec1352bf78f850593cd",
+            "link_secure": "https://player.vimeo.com/external/306915248.m3u8?s=332b585f09ab0b32cbb94886d1ac7d4589f8aee7&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306915248.sd.mp4?s=cfe5845317230e3d4e21131edb529f70ebde292e&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:25:50+00:00",
+            "fps": 30,
+            "size": 25464497,
+            "md5": "456873f02b4cc79a0e82d05297042078",
+            "link_secure": "https://player.vimeo.com/external/306915248.sd.mp4?s=cfe5845317230e3d4e21131edb529f70ebde292e&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306915248.sd.mp4?s=cfe5845317230e3d4e21131edb529f70ebde292e&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:25:50+00:00",
+            "fps": 30,
+            "size": 46557821,
+            "md5": "bcc163bfa3e80f505338bf035f1c2ba4",
+            "link_secure": "https://player.vimeo.com/external/306915248.sd.mp4?s=cfe5845317230e3d4e21131edb529f70ebde292e&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306915248.hd.mp4?s=76f84d82f91fc96f8730e411ade3b917e162bcc2&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:25:50+00:00",
+            "fps": 60,
+            "size": 76424106,
+            "md5": "bfa14f848b6ba0f76d2906413e44715c",
+            "link_secure": "https://player.vimeo.com/external/306915248.hd.mp4?s=76f84d82f91fc96f8730e411ade3b917e162bcc2&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306915248.hd.mp4?s=76f84d82f91fc96f8730e411ade3b917e162bcc2&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:25:50+00:00",
+            "fps": 60,
+            "size": 115589234,
+            "md5": "237a0a141f132ec1352bf78f850593cd",
+            "link_secure": "https://player.vimeo.com/external/306915248.hd.mp4?s=76f84d82f91fc96f8730e411ade3b917e162bcc2&profile_id=169&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306915248.hd.mp4?s=76f84d82f91fc96f8730e411ade3b917e162bcc2&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:25:50+00:00",
+            "fps": 30,
+            "size": 121806555,
+            "md5": "90bbf113c725b1266414efac6c3bb95c",
+            "link_secure": "https://player.vimeo.com/external/306915248.hd.mp4?s=76f84d82f91fc96f8730e411ade3b917e162bcc2&profile_id=175&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306915248",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306915248.sd.mp4?s=cfe5845317230e3d4e21131edb529f70ebde292e&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306915248.hd.mp4?s=76f84d82f91fc96f8730e411ade3b917e162bcc2&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306915248.sd.mp4?s=cfe5845317230e3d4e21131edb529f70ebde292e&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306915248.m3u8?s=332b585f09ab0b32cbb94886d1ac7d4589f8aee7&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746759648_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:05:30"
+      },
+      {
+        "id": 445980,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Definição Parte 2",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306915441",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746759903_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 3,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306915441.m3u8?s=89386d53676483bd4f5918e3539c0a666e0ba421&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:26:51+00:00",
+            "fps": 30,
+            "size": 113049999,
+            "md5": "286f0975c5f803805dc2d6dd71d19fb6",
+            "link_secure": "https://player.vimeo.com/external/306915441.m3u8?s=89386d53676483bd4f5918e3539c0a666e0ba421&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306915441.sd.mp4?s=354f921a08766be1b1ffc618d81fe045ca5bc5bc&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:26:51+00:00",
+            "fps": 30,
+            "size": 24800127,
+            "md5": "90b1e3e496ba7fb2f596899fe5a79641",
+            "link_secure": "https://player.vimeo.com/external/306915441.sd.mp4?s=354f921a08766be1b1ffc618d81fe045ca5bc5bc&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306915441.sd.mp4?s=354f921a08766be1b1ffc618d81fe045ca5bc5bc&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:26:51+00:00",
+            "fps": 30,
+            "size": 43815458,
+            "md5": "6980c707b7c980d84e3fd289c1b21571",
+            "link_secure": "https://player.vimeo.com/external/306915441.sd.mp4?s=354f921a08766be1b1ffc618d81fe045ca5bc5bc&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306915441.hd.mp4?s=30eaa13c2e2e4d34c79e651d530915a92b70d333&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:26:51+00:00",
+            "fps": 60,
+            "size": 69656842,
+            "md5": "7c0fa97ea6c5f865981204046d7a8994",
+            "link_secure": "https://player.vimeo.com/external/306915441.hd.mp4?s=30eaa13c2e2e4d34c79e651d530915a92b70d333&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306915441.hd.mp4?s=30eaa13c2e2e4d34c79e651d530915a92b70d333&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:26:51+00:00",
+            "fps": 30,
+            "size": 113049999,
+            "md5": "286f0975c5f803805dc2d6dd71d19fb6",
+            "link_secure": "https://player.vimeo.com/external/306915441.hd.mp4?s=30eaa13c2e2e4d34c79e651d530915a92b70d333&profile_id=175&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306915441.hd.mp4?s=30eaa13c2e2e4d34c79e651d530915a92b70d333&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:26:51+00:00",
+            "fps": 60,
+            "size": 108273260,
+            "md5": "a71ceb09ad7efcb070c374a35f109bd8",
+            "link_secure": "https://player.vimeo.com/external/306915441.hd.mp4?s=30eaa13c2e2e4d34c79e651d530915a92b70d333&profile_id=169&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306915441",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306915441.sd.mp4?s=354f921a08766be1b1ffc618d81fe045ca5bc5bc&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306915441.hd.mp4?s=30eaa13c2e2e4d34c79e651d530915a92b70d333&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306915441.sd.mp4?s=354f921a08766be1b1ffc618d81fe045ca5bc5bc&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306915441.m3u8?s=89386d53676483bd4f5918e3539c0a666e0ba421&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746759903_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:06:08"
+      },
+      {
+        "id": 445981,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Finalidade",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306915799",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746760340_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 4,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306915799.m3u8?s=2107ff7f74c580720c9fa6a075766b59554220b2&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:28:52+00:00",
+            "fps": 60,
+            "size": 105522931,
+            "md5": "8bdd32259780a538882b370bd81ad36e",
+            "link_secure": "https://player.vimeo.com/external/306915799.m3u8?s=2107ff7f74c580720c9fa6a075766b59554220b2&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306915799.sd.mp4?s=e3c8685abb4e7baccbe5b262589b407d495103f7&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:28:52+00:00",
+            "fps": 30,
+            "size": 22903271,
+            "md5": "1be7ab42054da6cf0a78f613bda172c5",
+            "link_secure": "https://player.vimeo.com/external/306915799.sd.mp4?s=e3c8685abb4e7baccbe5b262589b407d495103f7&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306915799.sd.mp4?s=e3c8685abb4e7baccbe5b262589b407d495103f7&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:28:52+00:00",
+            "fps": 30,
+            "size": 42159289,
+            "md5": "8699ae0114abfed4c236ec1fecedf429",
+            "link_secure": "https://player.vimeo.com/external/306915799.sd.mp4?s=e3c8685abb4e7baccbe5b262589b407d495103f7&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306915799.hd.mp4?s=34df24fbbc87ac5332470981f7209c47e96b13a7&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:28:52+00:00",
+            "fps": 60,
+            "size": 70037253,
+            "md5": "3e5593d5d4c892b749c4e9c8c77f7392",
+            "link_secure": "https://player.vimeo.com/external/306915799.hd.mp4?s=34df24fbbc87ac5332470981f7209c47e96b13a7&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306915799.hd.mp4?s=34df24fbbc87ac5332470981f7209c47e96b13a7&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:28:52+00:00",
+            "fps": 60,
+            "size": 105522931,
+            "md5": "8bdd32259780a538882b370bd81ad36e",
+            "link_secure": "https://player.vimeo.com/external/306915799.hd.mp4?s=34df24fbbc87ac5332470981f7209c47e96b13a7&profile_id=169&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306915799.hd.mp4?s=34df24fbbc87ac5332470981f7209c47e96b13a7&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:28:52+00:00",
+            "fps": 30,
+            "size": 112147041,
+            "md5": "2e3a7a1986e8bdfbf977928c2fedfcec",
+            "link_secure": "https://player.vimeo.com/external/306915799.hd.mp4?s=34df24fbbc87ac5332470981f7209c47e96b13a7&profile_id=175&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306915799",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306915799.sd.mp4?s=e3c8685abb4e7baccbe5b262589b407d495103f7&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306915799.hd.mp4?s=34df24fbbc87ac5332470981f7209c47e96b13a7&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306915799.sd.mp4?s=e3c8685abb4e7baccbe5b262589b407d495103f7&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306915799.m3u8?s=2107ff7f74c580720c9fa6a075766b59554220b2&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746760340_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:04:47"
+      },
+      {
+        "id": 445982,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Controle Mensal dos Estoques Parte 1",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306916005",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746760630_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 5,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306916005.m3u8?s=c42784a91efade3b684943b34a6b7a68c9fcc40f&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:30:30+00:00",
+            "fps": 30,
+            "size": 17513782,
+            "md5": "af4f948c9b8ca10653a7f67d12cb3be8",
+            "link_secure": "https://player.vimeo.com/external/306916005.m3u8?s=c42784a91efade3b684943b34a6b7a68c9fcc40f&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306916005.sd.mp4?s=8e5f77cc7db5b42330a3916ee70990b56cbc35b6&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:30:30+00:00",
+            "fps": 30,
+            "size": 17513782,
+            "md5": "af4f948c9b8ca10653a7f67d12cb3be8",
+            "link_secure": "https://player.vimeo.com/external/306916005.sd.mp4?s=8e5f77cc7db5b42330a3916ee70990b56cbc35b6&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306916005.sd.mp4?s=8e5f77cc7db5b42330a3916ee70990b56cbc35b6&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:30:30+00:00",
+            "fps": 30,
+            "size": 31825323,
+            "md5": "80a68c2a3ec5bba534ce1fb8b155065f",
+            "link_secure": "https://player.vimeo.com/external/306916005.sd.mp4?s=8e5f77cc7db5b42330a3916ee70990b56cbc35b6&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306916005.hd.mp4?s=eba540ab5546b9ada84703dfdfbfacaef0b65919&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:30:30+00:00",
+            "fps": 60,
+            "size": 52757125,
+            "md5": "651ecdcf7bd965deb12517ec99a50c8b",
+            "link_secure": "https://player.vimeo.com/external/306916005.hd.mp4?s=eba540ab5546b9ada84703dfdfbfacaef0b65919&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916005.hd.mp4?s=eba540ab5546b9ada84703dfdfbfacaef0b65919&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:30:30+00:00",
+            "fps": 30,
+            "size": 84755586,
+            "md5": "36d233d5cbf6f4a63b32e18a3dc3e30f",
+            "link_secure": "https://player.vimeo.com/external/306916005.hd.mp4?s=eba540ab5546b9ada84703dfdfbfacaef0b65919&profile_id=175&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916005.hd.mp4?s=eba540ab5546b9ada84703dfdfbfacaef0b65919&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:30:30+00:00",
+            "fps": 60,
+            "size": 79915396,
+            "md5": "d26b58ec0e69bc1dae2d646a6129a525",
+            "link_secure": "https://player.vimeo.com/external/306916005.hd.mp4?s=eba540ab5546b9ada84703dfdfbfacaef0b65919&profile_id=169&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306916005",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916005.sd.mp4?s=8e5f77cc7db5b42330a3916ee70990b56cbc35b6&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916005.hd.mp4?s=eba540ab5546b9ada84703dfdfbfacaef0b65919&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306916005.sd.mp4?s=8e5f77cc7db5b42330a3916ee70990b56cbc35b6&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306916005.m3u8?s=c42784a91efade3b684943b34a6b7a68c9fcc40f&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746760630_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:03:36"
+      },
+      {
+        "id": 445983,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Controle Mensal dos Estoques Parte 2",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306916250",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746760872_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 6,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306916250.m3u8?s=3d5abd925fa610a112819132d8460a78b2f9b13c&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:31:32+00:00",
+            "fps": 30,
+            "size": 45082233,
+            "md5": "990e046ef5940c88d0447a881ec497d6",
+            "link_secure": "https://player.vimeo.com/external/306916250.m3u8?s=3d5abd925fa610a112819132d8460a78b2f9b13c&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306916250.sd.mp4?s=afa397e1d0599ee8755b483b77644628948d6775&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:31:32+00:00",
+            "fps": 30,
+            "size": 24001977,
+            "md5": "99e08d200efa622f931a2159d0a74247",
+            "link_secure": "https://player.vimeo.com/external/306916250.sd.mp4?s=afa397e1d0599ee8755b483b77644628948d6775&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306916250.sd.mp4?s=afa397e1d0599ee8755b483b77644628948d6775&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:31:32+00:00",
+            "fps": 30,
+            "size": 45082233,
+            "md5": "990e046ef5940c88d0447a881ec497d6",
+            "link_secure": "https://player.vimeo.com/external/306916250.sd.mp4?s=afa397e1d0599ee8755b483b77644628948d6775&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306916250.hd.mp4?s=38df337fac78b21aec5dfc556e56ffb9129cc87b&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:31:32+00:00",
+            "fps": 60,
+            "size": 75491143,
+            "md5": "f2fe53e1a4d260fb4661473eabb19e30",
+            "link_secure": "https://player.vimeo.com/external/306916250.hd.mp4?s=38df337fac78b21aec5dfc556e56ffb9129cc87b&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916250.hd.mp4?s=38df337fac78b21aec5dfc556e56ffb9129cc87b&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:31:32+00:00",
+            "fps": 30,
+            "size": 119976733,
+            "md5": "9f57579d01f2b57a6540b4e4cbc29d6f",
+            "link_secure": "https://player.vimeo.com/external/306916250.hd.mp4?s=38df337fac78b21aec5dfc556e56ffb9129cc87b&profile_id=175&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916250.hd.mp4?s=38df337fac78b21aec5dfc556e56ffb9129cc87b&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:31:32+00:00",
+            "fps": 60,
+            "size": 112367062,
+            "md5": "918996efa5f429f6c605534d7cfcfaa4",
+            "link_secure": "https://player.vimeo.com/external/306916250.hd.mp4?s=38df337fac78b21aec5dfc556e56ffb9129cc87b&profile_id=169&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306916250",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916250.sd.mp4?s=afa397e1d0599ee8755b483b77644628948d6775&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916250.hd.mp4?s=38df337fac78b21aec5dfc556e56ffb9129cc87b&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306916250.sd.mp4?s=afa397e1d0599ee8755b483b77644628948d6775&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306916250.m3u8?s=3d5abd925fa610a112819132d8460a78b2f9b13c&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746760872_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:04:43"
+      },
+      {
+        "id": 445984,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Controle das Indústrias",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306916325",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746760994_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 7,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306916325.m3u8?s=6e7e45783ecb53006e62f35371f107fb15d15dc5&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:32:12+00:00",
+            "fps": 60,
+            "size": 30920168,
+            "md5": "c9b66876fcf9bf22bd7c0b9774d7276e",
+            "link_secure": "https://player.vimeo.com/external/306916325.m3u8?s=6e7e45783ecb53006e62f35371f107fb15d15dc5&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306916325.sd.mp4?s=782ce05fd6c29986b6997aebeb233dabd6acf1a4&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:32:11+00:00",
+            "fps": 30,
+            "size": 10004735,
+            "md5": "ab3fa9b95edd998e210acd194a8f65cd",
+            "link_secure": "https://player.vimeo.com/external/306916325.sd.mp4?s=782ce05fd6c29986b6997aebeb233dabd6acf1a4&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306916325.sd.mp4?s=782ce05fd6c29986b6997aebeb233dabd6acf1a4&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:32:11+00:00",
+            "fps": 30,
+            "size": 18675160,
+            "md5": "e003c4a63832e60253af6207a4d38251",
+            "link_secure": "https://player.vimeo.com/external/306916325.sd.mp4?s=782ce05fd6c29986b6997aebeb233dabd6acf1a4&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306916325.hd.mp4?s=38c67e7112b7019cbb1288a5861f6e7b2330ad23&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:32:12+00:00",
+            "fps": 60,
+            "size": 30920168,
+            "md5": "c9b66876fcf9bf22bd7c0b9774d7276e",
+            "link_secure": "https://player.vimeo.com/external/306916325.hd.mp4?s=38c67e7112b7019cbb1288a5861f6e7b2330ad23&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916325.hd.mp4?s=38c67e7112b7019cbb1288a5861f6e7b2330ad23&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:32:12+00:00",
+            "fps": 60,
+            "size": 46750739,
+            "md5": "d21dd1c94d00fd1dea8682b8272698fe",
+            "link_secure": "https://player.vimeo.com/external/306916325.hd.mp4?s=38c67e7112b7019cbb1288a5861f6e7b2330ad23&profile_id=169&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916325.hd.mp4?s=38c67e7112b7019cbb1288a5861f6e7b2330ad23&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:32:11+00:00",
+            "fps": 30,
+            "size": 49507664,
+            "md5": "02aecbdb1c0554d239f2cb4ba4e65d76",
+            "link_secure": "https://player.vimeo.com/external/306916325.hd.mp4?s=38c67e7112b7019cbb1288a5861f6e7b2330ad23&profile_id=175&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306916325",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916325.sd.mp4?s=782ce05fd6c29986b6997aebeb233dabd6acf1a4&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916325.hd.mp4?s=38c67e7112b7019cbb1288a5861f6e7b2330ad23&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306916325.sd.mp4?s=782ce05fd6c29986b6997aebeb233dabd6acf1a4&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306916325.m3u8?s=6e7e45783ecb53006e62f35371f107fb15d15dc5&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746760994_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:02:03"
+      },
+      {
+        "id": 445985,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Registros Parte 1",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306916684",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746761431_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 8,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306916684.m3u8?s=04326b916e84ea359b3333bd669db7c4734e8f30&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:33:52+00:00",
+            "fps": 30,
+            "size": 88682448,
+            "md5": "b44043ea00b090713099cba55da28c52",
+            "link_secure": "https://player.vimeo.com/external/306916684.m3u8?s=04326b916e84ea359b3333bd669db7c4734e8f30&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306916684.sd.mp4?s=6b04fd533edaed494faa4de4e59774a79a720bb8&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:33:52+00:00",
+            "fps": 30,
+            "size": 19702726,
+            "md5": "1051d8d83ba2df0095bf497ffb741b01",
+            "link_secure": "https://player.vimeo.com/external/306916684.sd.mp4?s=6b04fd533edaed494faa4de4e59774a79a720bb8&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306916684.sd.mp4?s=6b04fd533edaed494faa4de4e59774a79a720bb8&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:33:52+00:00",
+            "fps": 30,
+            "size": 35113786,
+            "md5": "75694eef0c1fe718c5c8b74e60fdb416",
+            "link_secure": "https://player.vimeo.com/external/306916684.sd.mp4?s=6b04fd533edaed494faa4de4e59774a79a720bb8&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306916684.hd.mp4?s=314117ceae0d21092da46b1c235af268544b68a2&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:33:52+00:00",
+            "fps": 60,
+            "size": 54705784,
+            "md5": "be6ba35139cb7a4e2bfa9fc059962431",
+            "link_secure": "https://player.vimeo.com/external/306916684.hd.mp4?s=314117ceae0d21092da46b1c235af268544b68a2&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916684.hd.mp4?s=314117ceae0d21092da46b1c235af268544b68a2&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:33:52+00:00",
+            "fps": 30,
+            "size": 88682448,
+            "md5": "b44043ea00b090713099cba55da28c52",
+            "link_secure": "https://player.vimeo.com/external/306916684.hd.mp4?s=314117ceae0d21092da46b1c235af268544b68a2&profile_id=175&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916684.hd.mp4?s=314117ceae0d21092da46b1c235af268544b68a2&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:33:52+00:00",
+            "fps": 60,
+            "size": 87967494,
+            "md5": "13e5dfe58583273fd6eba8c603922132",
+            "link_secure": "https://player.vimeo.com/external/306916684.hd.mp4?s=314117ceae0d21092da46b1c235af268544b68a2&profile_id=169&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306916684",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916684.sd.mp4?s=6b04fd533edaed494faa4de4e59774a79a720bb8&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916684.hd.mp4?s=314117ceae0d21092da46b1c235af268544b68a2&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306916684.sd.mp4?s=6b04fd533edaed494faa4de4e59774a79a720bb8&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306916684.m3u8?s=04326b916e84ea359b3333bd669db7c4734e8f30&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746761431_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:05:33"
+      },
+      {
+        "id": 445986,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Registros Parte 2",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306916756",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746761489_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 9,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306916756.m3u8?s=c6e406712d2174b557d939c43e9b7c2998fd8e9e&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:12+00:00",
+            "fps": 30,
+            "size": 9566749,
+            "md5": "05cf080eec20821c55e298727f0d08c0",
+            "link_secure": "https://player.vimeo.com/external/306916756.m3u8?s=c6e406712d2174b557d939c43e9b7c2998fd8e9e&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306916756.sd.mp4?s=49b6a67bd0815e1e067c5815a34d21b09f75a568&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:12+00:00",
+            "fps": 30,
+            "size": 9566749,
+            "md5": "05cf080eec20821c55e298727f0d08c0",
+            "link_secure": "https://player.vimeo.com/external/306916756.sd.mp4?s=49b6a67bd0815e1e067c5815a34d21b09f75a568&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306916756.sd.mp4?s=49b6a67bd0815e1e067c5815a34d21b09f75a568&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:12+00:00",
+            "fps": 30,
+            "size": 15640290,
+            "md5": "12e5db1b6d3b4534c44155389a48d467",
+            "link_secure": "https://player.vimeo.com/external/306916756.sd.mp4?s=49b6a67bd0815e1e067c5815a34d21b09f75a568&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306916756.hd.mp4?s=29db471fd83c15c2624562ec8dd9d2ca139a26d2&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:12+00:00",
+            "fps": 60,
+            "size": 23079247,
+            "md5": "d467cd35e1c900372080742a768f2ca5",
+            "link_secure": "https://player.vimeo.com/external/306916756.hd.mp4?s=29db471fd83c15c2624562ec8dd9d2ca139a26d2&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916756.hd.mp4?s=29db471fd83c15c2624562ec8dd9d2ca139a26d2&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:12+00:00",
+            "fps": 30,
+            "size": 36032187,
+            "md5": "a7f0c77d3d24ae4b04209d9acb440855",
+            "link_secure": "https://player.vimeo.com/external/306916756.hd.mp4?s=29db471fd83c15c2624562ec8dd9d2ca139a26d2&profile_id=175&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916756.hd.mp4?s=29db471fd83c15c2624562ec8dd9d2ca139a26d2&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:12+00:00",
+            "fps": 60,
+            "size": 35173686,
+            "md5": "2acecb4473b3d4f118303bf2872acd94",
+            "link_secure": "https://player.vimeo.com/external/306916756.hd.mp4?s=29db471fd83c15c2624562ec8dd9d2ca139a26d2&profile_id=169&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306916756",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916756.sd.mp4?s=49b6a67bd0815e1e067c5815a34d21b09f75a568&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916756.hd.mp4?s=29db471fd83c15c2624562ec8dd9d2ca139a26d2&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306916756.sd.mp4?s=49b6a67bd0815e1e067c5815a34d21b09f75a568&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306916756.m3u8?s=c6e406712d2174b557d939c43e9b7c2998fd8e9e&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746761489_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:03:48"
+      },
+      {
+        "id": 445987,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Registros Parte 3",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306916846",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746761582_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 10,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306916846.m3u8?s=e6966ea33ff65c073a29d3242cc71d16c3eedf88&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:51+00:00",
+            "fps": 60,
+            "size": 25535904,
+            "md5": "362ba420904b1b6ad9b22579144ac175",
+            "link_secure": "https://player.vimeo.com/external/306916846.m3u8?s=e6966ea33ff65c073a29d3242cc71d16c3eedf88&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306916846.sd.mp4?s=f035e917d1f34d5f7de27220e6aeecf322911c08&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:51+00:00",
+            "fps": 30,
+            "size": 9351000,
+            "md5": "18c0b44eb7dac55d2cde9d55beebea59",
+            "link_secure": "https://player.vimeo.com/external/306916846.sd.mp4?s=f035e917d1f34d5f7de27220e6aeecf322911c08&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306916846.sd.mp4?s=f035e917d1f34d5f7de27220e6aeecf322911c08&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:51+00:00",
+            "fps": 30,
+            "size": 16659700,
+            "md5": "804a980bd92d8872425a611232eba628",
+            "link_secure": "https://player.vimeo.com/external/306916846.sd.mp4?s=f035e917d1f34d5f7de27220e6aeecf322911c08&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306916846.hd.mp4?s=473c61e65fc52f70dbe7730e1ec7285336391db0&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:51+00:00",
+            "fps": 60,
+            "size": 25535904,
+            "md5": "362ba420904b1b6ad9b22579144ac175",
+            "link_secure": "https://player.vimeo.com/external/306916846.hd.mp4?s=473c61e65fc52f70dbe7730e1ec7285336391db0&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916846.hd.mp4?s=473c61e65fc52f70dbe7730e1ec7285336391db0&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:51+00:00",
+            "fps": 60,
+            "size": 40566350,
+            "md5": "ef903595d89275cb1ad7e47433978534",
+            "link_secure": "https://player.vimeo.com/external/306916846.hd.mp4?s=473c61e65fc52f70dbe7730e1ec7285336391db0&profile_id=169&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306916846.hd.mp4?s=473c61e65fc52f70dbe7730e1ec7285336391db0&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:34:51+00:00",
+            "fps": 30,
+            "size": 41586912,
+            "md5": "ca81f0a7281074626a5f5dd1483e491d",
+            "link_secure": "https://player.vimeo.com/external/306916846.hd.mp4?s=473c61e65fc52f70dbe7730e1ec7285336391db0&profile_id=175&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306916846",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916846.sd.mp4?s=f035e917d1f34d5f7de27220e6aeecf322911c08&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306916846.hd.mp4?s=473c61e65fc52f70dbe7730e1ec7285336391db0&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306916846.sd.mp4?s=f035e917d1f34d5f7de27220e6aeecf322911c08&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306916846.m3u8?s=e6966ea33ff65c073a29d3242cc71d16c3eedf88&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746761582_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:02:41"
+      },
+      {
+        "id": 445988,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Bloco H",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306917003",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746761807_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 11,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306917003.m3u8?s=e55d7829ee72527d72ad5e76c025db895244f59b&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:35:52+00:00",
+            "fps": 60,
+            "size": 85820667,
+            "md5": "3146e5ae4eff9d89b6cd0be384744e9b",
+            "link_secure": "https://player.vimeo.com/external/306917003.m3u8?s=e55d7829ee72527d72ad5e76c025db895244f59b&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306917003.sd.mp4?s=bf67464686b1fc9f124186c35caae88258d7bfab&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:35:52+00:00",
+            "fps": 30,
+            "size": 18608264,
+            "md5": "57a10fc946792bd9b9bd2b1df5dad1d9",
+            "link_secure": "https://player.vimeo.com/external/306917003.sd.mp4?s=bf67464686b1fc9f124186c35caae88258d7bfab&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306917003.sd.mp4?s=bf67464686b1fc9f124186c35caae88258d7bfab&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:35:52+00:00",
+            "fps": 30,
+            "size": 35179871,
+            "md5": "f47620b8f92aa3f436d0fc31754da553",
+            "link_secure": "https://player.vimeo.com/external/306917003.sd.mp4?s=bf67464686b1fc9f124186c35caae88258d7bfab&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306917003.hd.mp4?s=07317c3c3e23981582adc3151af94217f682fbdf&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:35:52+00:00",
+            "fps": 60,
+            "size": 55580380,
+            "md5": "c4aecb97b3f68d310311be81d78fd68e",
+            "link_secure": "https://player.vimeo.com/external/306917003.hd.mp4?s=07317c3c3e23981582adc3151af94217f682fbdf&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306917003.hd.mp4?s=07317c3c3e23981582adc3151af94217f682fbdf&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:35:52+00:00",
+            "fps": 60,
+            "size": 85820667,
+            "md5": "3146e5ae4eff9d89b6cd0be384744e9b",
+            "link_secure": "https://player.vimeo.com/external/306917003.hd.mp4?s=07317c3c3e23981582adc3151af94217f682fbdf&profile_id=169&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306917003.hd.mp4?s=07317c3c3e23981582adc3151af94217f682fbdf&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:35:52+00:00",
+            "fps": 30,
+            "size": 89370070,
+            "md5": "cbdc39a593cafcd6ca339d0b515b593c",
+            "link_secure": "https://player.vimeo.com/external/306917003.hd.mp4?s=07317c3c3e23981582adc3151af94217f682fbdf&profile_id=175&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306917003",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306917003.sd.mp4?s=bf67464686b1fc9f124186c35caae88258d7bfab&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306917003.hd.mp4?s=07317c3c3e23981582adc3151af94217f682fbdf&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306917003.sd.mp4?s=bf67464686b1fc9f124186c35caae88258d7bfab&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306917003.m3u8?s=e55d7829ee72527d72ad5e76c025db895244f59b&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746761807_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:04:27"
+      },
+      {
+        "id": 445989,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Bloco K Parte 1",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/306917292",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746762230_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 12,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/306917292.m3u8?s=400b0627ab8d58c426b31b5f38c5822dc8c3f497&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:37:32+00:00",
+            "fps": 60,
+            "size": 95476095,
+            "md5": "f13bacb812c9450d86d974e37028cc7c",
+            "link_secure": "https://player.vimeo.com/external/306917292.m3u8?s=400b0627ab8d58c426b31b5f38c5822dc8c3f497&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/306917292.sd.mp4?s=ef7939b3fae1bcd4fa7a11d199e000cc82b61bbe&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:37:32+00:00",
+            "fps": 30,
+            "size": 20456571,
+            "md5": "eefd49e6e97bc9ae9b80cc9e1f1e8ffe",
+            "link_secure": "https://player.vimeo.com/external/306917292.sd.mp4?s=ef7939b3fae1bcd4fa7a11d199e000cc82b61bbe&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/306917292.sd.mp4?s=ef7939b3fae1bcd4fa7a11d199e000cc82b61bbe&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:37:32+00:00",
+            "fps": 30,
+            "size": 38400642,
+            "md5": "7f9982bbbbbd9279fd30682282652321",
+            "link_secure": "https://player.vimeo.com/external/306917292.sd.mp4?s=ef7939b3fae1bcd4fa7a11d199e000cc82b61bbe&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/306917292.hd.mp4?s=97da4e0ea207f0b4017bb07676c6f7d2ccc73feb&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:37:32+00:00",
+            "fps": 60,
+            "size": 60588594,
+            "md5": "b9ccff2270f4dc9306258c6bb239acfb",
+            "link_secure": "https://player.vimeo.com/external/306917292.hd.mp4?s=97da4e0ea207f0b4017bb07676c6f7d2ccc73feb&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306917292.hd.mp4?s=97da4e0ea207f0b4017bb07676c6f7d2ccc73feb&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:37:32+00:00",
+            "fps": 60,
+            "size": 95476095,
+            "md5": "f13bacb812c9450d86d974e37028cc7c",
+            "link_secure": "https://player.vimeo.com/external/306917292.hd.mp4?s=97da4e0ea207f0b4017bb07676c6f7d2ccc73feb&profile_id=169&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/306917292.hd.mp4?s=97da4e0ea207f0b4017bb07676c6f7d2ccc73feb&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-17T22:37:32+00:00",
+            "fps": 30,
+            "size": 98364477,
+            "md5": "56fc3883d63c70491611824d7a35c7d5",
+            "link_secure": "https://player.vimeo.com/external/306917292.hd.mp4?s=97da4e0ea207f0b4017bb07676c6f7d2ccc73feb&profile_id=175&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "306917292",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306917292.sd.mp4?s=ef7939b3fae1bcd4fa7a11d199e000cc82b61bbe&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/306917292.hd.mp4?s=97da4e0ea207f0b4017bb07676c6f7d2ccc73feb&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/306917292.sd.mp4?s=ef7939b3fae1bcd4fa7a11d199e000cc82b61bbe&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/306917292.m3u8?s=400b0627ab8d58c426b31b5f38c5822dc8c3f497&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746762230_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:05:07"
+      },
+      {
+        "id": 445990,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Bloco K Parte 2",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/307006299",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746866200_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 13,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/307006299.m3u8?s=c8e4d201f78896d294e8178923dd201f564bfcaa&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:54+00:00",
+            "fps": 60,
+            "size": 46339658,
+            "md5": "3d1452ce46578b15c20b714bab3fb3e0",
+            "link_secure": "https://player.vimeo.com/external/307006299.m3u8?s=c8e4d201f78896d294e8178923dd201f564bfcaa&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/307006299.sd.mp4?s=84e7f2265f15b4dbf9ce9715ec29042af2722214&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:54+00:00",
+            "fps": 30,
+            "size": 10828812,
+            "md5": "48a97ed3a2b1c200b194431410bc5ea0",
+            "link_secure": "https://player.vimeo.com/external/307006299.sd.mp4?s=84e7f2265f15b4dbf9ce9715ec29042af2722214&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/307006299.sd.mp4?s=84e7f2265f15b4dbf9ce9715ec29042af2722214&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:54+00:00",
+            "fps": 30,
+            "size": 19038332,
+            "md5": "ab641b4e66f87a628f30b606e32f4e6c",
+            "link_secure": "https://player.vimeo.com/external/307006299.sd.mp4?s=84e7f2265f15b4dbf9ce9715ec29042af2722214&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/307006299.hd.mp4?s=67a841f8f42f2b274e45bc62a8c5af72e6a39bc9&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:54+00:00",
+            "fps": 60,
+            "size": 29542923,
+            "md5": "a52a5bb199e6be39a362b5e70aafbebe",
+            "link_secure": "https://player.vimeo.com/external/307006299.hd.mp4?s=67a841f8f42f2b274e45bc62a8c5af72e6a39bc9&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006299.hd.mp4?s=67a841f8f42f2b274e45bc62a8c5af72e6a39bc9&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:54+00:00",
+            "fps": 60,
+            "size": 46339658,
+            "md5": "3d1452ce46578b15c20b714bab3fb3e0",
+            "link_secure": "https://player.vimeo.com/external/307006299.hd.mp4?s=67a841f8f42f2b274e45bc62a8c5af72e6a39bc9&profile_id=169&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006299.hd.mp4?s=67a841f8f42f2b274e45bc62a8c5af72e6a39bc9&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:40:54+00:00",
+            "fps": 30,
+            "size": 46736468,
+            "md5": "7fdfa6d07e7d1e3d42c6a9498af9ac4b",
+            "link_secure": "https://player.vimeo.com/external/307006299.hd.mp4?s=67a841f8f42f2b274e45bc62a8c5af72e6a39bc9&profile_id=175&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "307006299",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006299.sd.mp4?s=84e7f2265f15b4dbf9ce9715ec29042af2722214&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006299.hd.mp4?s=67a841f8f42f2b274e45bc62a8c5af72e6a39bc9&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/307006299.sd.mp4?s=84e7f2265f15b4dbf9ce9715ec29042af2722214&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/307006299.m3u8?s=c8e4d201f78896d294e8178923dd201f564bfcaa&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746866200_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:03:32"
+      },
+      {
+        "id": 445991,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Bloco K Parte 3",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/307006552",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746866472_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 14,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/307006552.m3u8?s=39cfb947eec752502e66de99284eb530df0698d7&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:42:14+00:00",
+            "fps": 60,
+            "size": 135141756,
+            "md5": "4937b46e49c3ff40106145ff60b99648",
+            "link_secure": "https://player.vimeo.com/external/307006552.m3u8?s=39cfb947eec752502e66de99284eb530df0698d7&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/307006552.sd.mp4?s=cc1dae9f573ea14e101de574022ab79d02fdf838&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:42:13+00:00",
+            "fps": 30,
+            "size": 26230966,
+            "md5": "6751f83a94c96114c89d371eb0769f95",
+            "link_secure": "https://player.vimeo.com/external/307006552.sd.mp4?s=cc1dae9f573ea14e101de574022ab79d02fdf838&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/307006552.sd.mp4?s=cc1dae9f573ea14e101de574022ab79d02fdf838&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:42:14+00:00",
+            "fps": 30,
+            "size": 51209408,
+            "md5": "63403d0c68c4c0de4835d3201fc006eb",
+            "link_secure": "https://player.vimeo.com/external/307006552.sd.mp4?s=cc1dae9f573ea14e101de574022ab79d02fdf838&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/307006552.hd.mp4?s=1ffea543df9d36cbcbd98519a4722ede39ddaf49&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:42:13+00:00",
+            "fps": 60,
+            "size": 82644136,
+            "md5": "d1682967093eed24b383f0f8b9c1b4bc",
+            "link_secure": "https://player.vimeo.com/external/307006552.hd.mp4?s=1ffea543df9d36cbcbd98519a4722ede39ddaf49&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006552.hd.mp4?s=1ffea543df9d36cbcbd98519a4722ede39ddaf49&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:42:14+00:00",
+            "fps": 60,
+            "size": 135141756,
+            "md5": "4937b46e49c3ff40106145ff60b99648",
+            "link_secure": "https://player.vimeo.com/external/307006552.hd.mp4?s=1ffea543df9d36cbcbd98519a4722ede39ddaf49&profile_id=169&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006552.hd.mp4?s=1ffea543df9d36cbcbd98519a4722ede39ddaf49&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:42:13+00:00",
+            "fps": 30,
+            "size": 134510308,
+            "md5": "8dc434776a60e9d96f2bdf0e95267b7b",
+            "link_secure": "https://player.vimeo.com/external/307006552.hd.mp4?s=1ffea543df9d36cbcbd98519a4722ede39ddaf49&profile_id=175&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "307006552",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006552.sd.mp4?s=cc1dae9f573ea14e101de574022ab79d02fdf838&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006552.hd.mp4?s=1ffea543df9d36cbcbd98519a4722ede39ddaf49&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/307006552.sd.mp4?s=cc1dae9f573ea14e101de574022ab79d02fdf838&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/307006552.m3u8?s=39cfb947eec752502e66de99284eb530df0698d7&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746866472_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:06:09"
+      },
+      {
+        "id": 445992,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Bloco K Parte 4",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/307006678",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746866608_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 15,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/307006678.m3u8?s=7f9ae4d2d04268daeff3c309b4299f291cb6c566&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:43:43+00:00",
+            "fps": 30,
+            "size": 12891158,
+            "md5": "3fe57ee3ea0f7886237d67ec37ba0244",
+            "link_secure": "https://player.vimeo.com/external/307006678.m3u8?s=7f9ae4d2d04268daeff3c309b4299f291cb6c566&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/307006678.sd.mp4?s=ed3a955f746b1ce23a668cec20a4d830883f4f16&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:43:43+00:00",
+            "fps": 30,
+            "size": 12891158,
+            "md5": "3fe57ee3ea0f7886237d67ec37ba0244",
+            "link_secure": "https://player.vimeo.com/external/307006678.sd.mp4?s=ed3a955f746b1ce23a668cec20a4d830883f4f16&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/307006678.sd.mp4?s=ed3a955f746b1ce23a668cec20a4d830883f4f16&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:43:43+00:00",
+            "fps": 30,
+            "size": 24463093,
+            "md5": "a4ef9d1dcf29c4de614930db9443924e",
+            "link_secure": "https://player.vimeo.com/external/307006678.sd.mp4?s=ed3a955f746b1ce23a668cec20a4d830883f4f16&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/307006678.hd.mp4?s=d7b238364f065b24d3d97c272165a611dc031aaa&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:43:43+00:00",
+            "fps": 60,
+            "size": 39330234,
+            "md5": "73d6386043ff8101a74df1c6dc59e7ab",
+            "link_secure": "https://player.vimeo.com/external/307006678.hd.mp4?s=d7b238364f065b24d3d97c272165a611dc031aaa&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006678.hd.mp4?s=d7b238364f065b24d3d97c272165a611dc031aaa&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:43:43+00:00",
+            "fps": 60,
+            "size": 65674638,
+            "md5": "eedd796be2d054e5e6aa36923dba0638",
+            "link_secure": "https://player.vimeo.com/external/307006678.hd.mp4?s=d7b238364f065b24d3d97c272165a611dc031aaa&profile_id=169&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006678.hd.mp4?s=d7b238364f065b24d3d97c272165a611dc031aaa&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:43:43+00:00",
+            "fps": 30,
+            "size": 64950293,
+            "md5": "9074517679b16cb6ecdf43ce0fb212e0",
+            "link_secure": "https://player.vimeo.com/external/307006678.hd.mp4?s=d7b238364f065b24d3d97c272165a611dc031aaa&profile_id=175&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "307006678",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006678.sd.mp4?s=ed3a955f746b1ce23a668cec20a4d830883f4f16&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006678.hd.mp4?s=d7b238364f065b24d3d97c272165a611dc031aaa&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/307006678.sd.mp4?s=ed3a955f746b1ce23a668cec20a4d830883f4f16&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/307006678.m3u8?s=7f9ae4d2d04268daeff3c309b4299f291cb6c566&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746866608_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:03:13"
+      },
+      {
+        "id": 445993,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Bloco K Parte 5",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/307006859",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746866836_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 16,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/307006859.m3u8?s=29a07ff05c1314aa8c89a64c7e8b430474572952&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:12+00:00",
+            "fps": 30,
+            "size": 73796405,
+            "md5": "85f51b5cfeab2eab08c724446fffffcb",
+            "link_secure": "https://player.vimeo.com/external/307006859.m3u8?s=29a07ff05c1314aa8c89a64c7e8b430474572952&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/307006859.sd.mp4?s=b62309be2c5b9f96ce8e7e79511874a42e5a4e9f&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:12+00:00",
+            "fps": 30,
+            "size": 16732007,
+            "md5": "d3bdcdf9c8c155e756be5bf5c125d007",
+            "link_secure": "https://player.vimeo.com/external/307006859.sd.mp4?s=b62309be2c5b9f96ce8e7e79511874a42e5a4e9f&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/307006859.sd.mp4?s=b62309be2c5b9f96ce8e7e79511874a42e5a4e9f&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:12+00:00",
+            "fps": 30,
+            "size": 29596053,
+            "md5": "760772b31f73a5e872697f14df99b33a",
+            "link_secure": "https://player.vimeo.com/external/307006859.sd.mp4?s=b62309be2c5b9f96ce8e7e79511874a42e5a4e9f&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/307006859.hd.mp4?s=f8adea966fe5f99aeec0805328b3475966d8d272&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:12+00:00",
+            "fps": 60,
+            "size": 45462249,
+            "md5": "562f775a17686e182ad6f7579249821a",
+            "link_secure": "https://player.vimeo.com/external/307006859.hd.mp4?s=f8adea966fe5f99aeec0805328b3475966d8d272&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006859.hd.mp4?s=f8adea966fe5f99aeec0805328b3475966d8d272&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:12+00:00",
+            "fps": 30,
+            "size": 73796405,
+            "md5": "85f51b5cfeab2eab08c724446fffffcb",
+            "link_secure": "https://player.vimeo.com/external/307006859.hd.mp4?s=f8adea966fe5f99aeec0805328b3475966d8d272&profile_id=175&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006859.hd.mp4?s=f8adea966fe5f99aeec0805328b3475966d8d272&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:12+00:00",
+            "fps": 60,
+            "size": 75043018,
+            "md5": "c24ff5ab5cbe29624e04c0ad4b310f92",
+            "link_secure": "https://player.vimeo.com/external/307006859.hd.mp4?s=f8adea966fe5f99aeec0805328b3475966d8d272&profile_id=169&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "307006859",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006859.sd.mp4?s=b62309be2c5b9f96ce8e7e79511874a42e5a4e9f&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006859.hd.mp4?s=f8adea966fe5f99aeec0805328b3475966d8d272&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/307006859.sd.mp4?s=b62309be2c5b9f96ce8e7e79511874a42e5a4e9f&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/307006859.m3u8?s=29a07ff05c1314aa8c89a64c7e8b430474572952&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746866836_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:05:51"
+      },
+      {
+        "id": 445994,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Bloco K Parte 6",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/307006954",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746866960_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 17,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/307006954.m3u8?s=8b87dde24600536f7a98f2bc5a526be27166bb1c&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:43+00:00",
+            "fps": 60,
+            "size": 33190843,
+            "md5": "2c9f0bcda7f73beb74393e25adebf106",
+            "link_secure": "https://player.vimeo.com/external/307006954.m3u8?s=8b87dde24600536f7a98f2bc5a526be27166bb1c&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/307006954.sd.mp4?s=37521ff2231604c610fd1fd526fce3f68cbedb0a&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:43+00:00",
+            "fps": 30,
+            "size": 12020129,
+            "md5": "3f8b54a0b5485418da442ca1809f7d59",
+            "link_secure": "https://player.vimeo.com/external/307006954.sd.mp4?s=37521ff2231604c610fd1fd526fce3f68cbedb0a&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/307006954.sd.mp4?s=37521ff2231604c610fd1fd526fce3f68cbedb0a&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:43+00:00",
+            "fps": 30,
+            "size": 21159564,
+            "md5": "69b1db9cdc571263cc93cb52af140156",
+            "link_secure": "https://player.vimeo.com/external/307006954.sd.mp4?s=37521ff2231604c610fd1fd526fce3f68cbedb0a&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/307006954.hd.mp4?s=194de6b5d24d8dba94573e1a534fbec25c034da8&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:43+00:00",
+            "fps": 60,
+            "size": 33190843,
+            "md5": "2c9f0bcda7f73beb74393e25adebf106",
+            "link_secure": "https://player.vimeo.com/external/307006954.hd.mp4?s=194de6b5d24d8dba94573e1a534fbec25c034da8&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006954.hd.mp4?s=194de6b5d24d8dba94573e1a534fbec25c034da8&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:43+00:00",
+            "fps": 60,
+            "size": 58219126,
+            "md5": "5a7d82bff4d4c74cd81ebc37e2ad3b7e",
+            "link_secure": "https://player.vimeo.com/external/307006954.hd.mp4?s=194de6b5d24d8dba94573e1a534fbec25c034da8&profile_id=169&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307006954.hd.mp4?s=194de6b5d24d8dba94573e1a534fbec25c034da8&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:43+00:00",
+            "fps": 30,
+            "size": 56513947,
+            "md5": "5c485b6e49ba65f24ae8e8583633bb11",
+            "link_secure": "https://player.vimeo.com/external/307006954.hd.mp4?s=194de6b5d24d8dba94573e1a534fbec25c034da8&profile_id=175&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "307006954",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006954.sd.mp4?s=37521ff2231604c610fd1fd526fce3f68cbedb0a&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307006954.hd.mp4?s=194de6b5d24d8dba94573e1a534fbec25c034da8&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/307006954.sd.mp4?s=37521ff2231604c610fd1fd526fce3f68cbedb0a&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/307006954.m3u8?s=8b87dde24600536f7a98f2bc5a526be27166bb1c&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746866960_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:03:30"
+      },
+      {
+        "id": 445995,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Bloco K Parte 7",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/307007037",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746867004_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 18,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/307007037.m3u8?s=8a889fe55acc645ce794761cec27bacaacbdcfdc&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:45:12+00:00",
+            "fps": 30,
+            "size": 61784657,
+            "md5": "7242bd2482f9c60a49391e07991355f6",
+            "link_secure": "https://player.vimeo.com/external/307007037.m3u8?s=8a889fe55acc645ce794761cec27bacaacbdcfdc&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/307007037.sd.mp4?s=2517451553912499a4b1bbd3ac4463085d52d6a7&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:54+00:00",
+            "fps": 30,
+            "size": 13557614,
+            "md5": "ed5301023d7caa4ba15a64b3a03ed9d8",
+            "link_secure": "https://player.vimeo.com/external/307007037.sd.mp4?s=2517451553912499a4b1bbd3ac4463085d52d6a7&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/307007037.sd.mp4?s=2517451553912499a4b1bbd3ac4463085d52d6a7&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:45:12+00:00",
+            "fps": 30,
+            "size": 23962939,
+            "md5": "9050e01b582bd1f5458acda7a1de4b63",
+            "link_secure": "https://player.vimeo.com/external/307007037.sd.mp4?s=2517451553912499a4b1bbd3ac4463085d52d6a7&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/307007037.hd.mp4?s=d241affab3e6075fc2ccbeb341ae8dbab0cfb3c4&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:54+00:00",
+            "fps": 60,
+            "size": 36392780,
+            "md5": "bba9832bc0de903ff4930c33ad8768e5",
+            "link_secure": "https://player.vimeo.com/external/307007037.hd.mp4?s=d241affab3e6075fc2ccbeb341ae8dbab0cfb3c4&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307007037.hd.mp4?s=d241affab3e6075fc2ccbeb341ae8dbab0cfb3c4&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:45:12+00:00",
+            "fps": 30,
+            "size": 61784657,
+            "md5": "7242bd2482f9c60a49391e07991355f6",
+            "link_secure": "https://player.vimeo.com/external/307007037.hd.mp4?s=d241affab3e6075fc2ccbeb341ae8dbab0cfb3c4&profile_id=175&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307007037.hd.mp4?s=d241affab3e6075fc2ccbeb341ae8dbab0cfb3c4&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:44:54+00:00",
+            "fps": 60,
+            "size": 64080264,
+            "md5": "bdb11ffd4deb63db237ed7dc6f3c83bb",
+            "link_secure": "https://player.vimeo.com/external/307007037.hd.mp4?s=d241affab3e6075fc2ccbeb341ae8dbab0cfb3c4&profile_id=169&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "307007037",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307007037.sd.mp4?s=2517451553912499a4b1bbd3ac4463085d52d6a7&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307007037.hd.mp4?s=d241affab3e6075fc2ccbeb341ae8dbab0cfb3c4&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/307007037.sd.mp4?s=2517451553912499a4b1bbd3ac4463085d52d6a7&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/307007037.m3u8?s=8a889fe55acc645ce794761cec27bacaacbdcfdc&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746867004_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:04:02"
+      },
+      {
+        "id": 445996,
+        "event_id": 1122,
+        "teacher_id": 8,
+        "title": "Bloco K Parte 8",
+        "content": "",
+        "slides": false,
+        "slides_url": "",
+        "recorded_url": "//player.vimeo.com/video/307007185",
+        "thumbnail_url": "https://i.vimeocdn.com/video/746867190_1920x1080.jpg?r=pad",
+        "type": "Video",
+        "start": -62169972812,
+        "end": -62169972812,
+        "live": false,
+        "live_now": false,
+        "position": 19,
+        "free": false,
+        "past": true,
+        "future": false,
+        "stream_info": null,
+        "time_start": 0,
+        "stream_sources": [
+          {
+            "quality": "hls",
+            "type": "video/mp4",
+            "link": "https://player.vimeo.com/external/307007185.m3u8?s=3e98ae29dbe8fdc9a526a6debe2d1e1b88dc2669&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:45:45+00:00",
+            "fps": 30,
+            "size": 99442973,
+            "md5": "a49403e99a9bf91629e799129a502637",
+            "link_secure": "https://player.vimeo.com/external/307007185.m3u8?s=3e98ae29dbe8fdc9a526a6debe2d1e1b88dc2669&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 640,
+            "height": 360,
+            "link": "http://player.vimeo.com/external/307007185.sd.mp4?s=d29050761fbacef6bebc13c58d9094eb917b52bd&profile_id=164&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:45:45+00:00",
+            "fps": 30,
+            "size": 19411883,
+            "md5": "5a5b4cd48c2dc7885dacbf1c00a79e4f",
+            "link_secure": "https://player.vimeo.com/external/307007185.sd.mp4?s=d29050761fbacef6bebc13c58d9094eb917b52bd&profile_id=164&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "sd",
+            "type": "video/mp4",
+            "width": 960,
+            "height": 540,
+            "link": "http://player.vimeo.com/external/307007185.sd.mp4?s=d29050761fbacef6bebc13c58d9094eb917b52bd&profile_id=165&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:45:45+00:00",
+            "fps": 30,
+            "size": 37221323,
+            "md5": "4b5efd1c91a17eab049d63fce19804b7",
+            "link_secure": "https://player.vimeo.com/external/307007185.sd.mp4?s=d29050761fbacef6bebc13c58d9094eb917b52bd&profile_id=165&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "link": "http://player.vimeo.com/external/307007185.hd.mp4?s=4cdcc92e2018dafff965a7801ef9ce9bef39ba9f&profile_id=174&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:45:45+00:00",
+            "fps": 60,
+            "size": 60713403,
+            "md5": "e11188404686615a590c815f735a2595",
+            "link_secure": "https://player.vimeo.com/external/307007185.hd.mp4?s=4cdcc92e2018dafff965a7801ef9ce9bef39ba9f&profile_id=174&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307007185.hd.mp4?s=4cdcc92e2018dafff965a7801ef9ce9bef39ba9f&profile_id=175&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:45:45+00:00",
+            "fps": 30,
+            "size": 99442973,
+            "md5": "a49403e99a9bf91629e799129a502637",
+            "link_secure": "https://player.vimeo.com/external/307007185.hd.mp4?s=4cdcc92e2018dafff965a7801ef9ce9bef39ba9f&profile_id=175&oauth2_token_id=56105697"
+          },
+          {
+            "quality": "hd",
+            "type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "link": "http://player.vimeo.com/external/307007185.hd.mp4?s=4cdcc92e2018dafff965a7801ef9ce9bef39ba9f&profile_id=169&oauth2_token_id=56105697",
+            "created_time": "2018-12-18T10:45:45+00:00",
+            "fps": 60,
+            "size": 97877610,
+            "md5": "3f806df617209540294035ef2b9c0820",
+            "link_secure": "https://player.vimeo.com/external/307007185.hd.mp4?s=4cdcc92e2018dafff965a7801ef9ce9bef39ba9f&profile_id=169&oauth2_token_id=56105697"
+          }
+        ],
+        "source_id": "307007185",
+        "quality_sources": [
+          {
+            "name": "SD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307007185.sd.mp4?s=d29050761fbacef6bebc13c58d9094eb917b52bd&profile_id=164&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 1
+          },
+          {
+            "name": "HD",
+            "sources": [
+              {
+                "src": "https://player.vimeo.com/external/307007185.hd.mp4?s=4cdcc92e2018dafff965a7801ef9ce9bef39ba9f&profile_id=174&oauth2_token_id=56105697",
+                "type": "video/mp4"
+              }
+            ],
+            "dashIndex": 2
+          }
+        ],
+        "watched_save_point": 0,
+        "video": {
+          "mp4": "https://player.vimeo.com/external/307007185.sd.mp4?s=d29050761fbacef6bebc13c58d9094eb917b52bd&profile_id=165&oauth2_token_id=56105697",
+          "hls": "https://player.vimeo.com/external/307007185.m3u8?s=3e98ae29dbe8fdc9a526a6debe2d1e1b88dc2669&oauth2_token_id=56105697",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/746867190_1920x1080.jpg?r=pad"
+        },
+        "duration": "00:04:10"
+      }
+    ]
+  }
+}
