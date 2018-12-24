@@ -23,6 +23,14 @@
         </li>
     </div>
 </div>
+
+
+<div class="container">
+    <p>Video Promocional:</p>
+    <iframe width="560" height="315" src="<%= data.video_divulgacao %>" frameborder="0"
+            allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 <div class="accordion" id="accordionExample">
     <% for(let i = 0;i < data.classes.length; i++){ %>
     <div class="card">
@@ -50,12 +58,6 @@
     <p id='no-courses-error'><strong>Nenhuma aula encontrada</strong></p>
 </div>
 <% } %>
-
-<div class="container">
-    <p>Video Promocional:</p>
-    <iframe width="560" height="315" src="<%= data.video_divulgacao %>" frameborder="0"
-            allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
